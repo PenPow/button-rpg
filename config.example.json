@@ -1,0 +1,12 @@
+{
+    "apiKeys": {
+        "discord": {
+            "token": ""
+        }
+    },
+    
+    "configuration": {
+        "defaultPrefix": "",
+        "ownerId": ""
+    }
+}
